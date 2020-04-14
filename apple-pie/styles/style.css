@@ -6,12 +6,8 @@
 
 #ingredients ul{
     list-style-type: none;
+    padding-left: 10px;
 }
-
-#directions ol {
-    
-}
-
 
 
 body {
@@ -32,8 +28,7 @@ h1 {
     color: white;
     font-size: 60px;
     text-align: center;
-    
-    
+      
 }
 
 h2{
@@ -49,12 +44,6 @@ h3 {
     text-align: center;
     padding-top: 10px;
 }
-
-ul{
-    padding-left: 10px;
-}
-
-
 
 img {
     width: 350px;
